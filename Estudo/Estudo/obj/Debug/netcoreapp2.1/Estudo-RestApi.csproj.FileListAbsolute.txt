@@ -1,0 +1,14 @@
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\bin\Debug\netcoreapp2.1\Estudo-RestApi.deps.json
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\bin\Debug\netcoreapp2.1\Estudo-RestApi.runtimeconfig.json
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\bin\Debug\netcoreapp2.1\Estudo-RestApi.runtimeconfig.dev.json
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\bin\Debug\netcoreapp2.1\Estudo-RestApi.dll
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\bin\Debug\netcoreapp2.1\Estudo-RestApi.pdb
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.csprojAssemblyReference.cache
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.csproj.CoreCompileInputs.cache
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.RazorAssemblyInfo.cache
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.RazorAssemblyInfo.cs
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.AssemblyInfoInputs.cache
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.AssemblyInfo.cs
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.RazorTargetAssemblyInfo.cache
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.dll
+C:\Users\DiogoPires.AzureAD\Desktop\Estudo\Estudo\Estudo\obj\Debug\netcoreapp2.1\Estudo-RestApi.pdb
