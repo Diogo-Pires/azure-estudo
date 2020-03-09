@@ -24,7 +24,6 @@
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\AzureDevops\\SeCom.Website.EPiServer\\src\\Web\\SeCom.Website.Epi\\LocalPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "http://nuget.episerver.com/feed/packages.svc": {},
           "https://api.nuget.org/v3/index.json": {}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYuma4ElrwEGduWrR9HtczgAAAAACAAAAAAAQZgAAAAEAACAAAACHzcaQ1+X4JTJVnCf3XJiapYc9QsRklz9LN6AwwmuK+AAAAAAOgAAAAAIAACAAAACB2VNdMPmibTK6a7MS5E8PFRsEjHKgqeC0vMpkyN1TrYAAAAA7atfsOktZ+G42cU3GBnlCgxNinxj+hBYstJMQuGNSQV+B/deyfAYKBXtB4iu/sX6mZCAVoUEaSIlhCci9uBYvT74CXyglJBtvvchfxMWfs9M4oESvyOvwxSMLfcu5a21qZu4L1JTuSZ72w1t4bGpNF21jBXgVFRQi4NA5B6j2YEAAAACkBszQd6lFbqskFL9fhlaPueY+CdtpJq7LzASgy4g/zaZ+cLMMz4FSouIX06cjiORc1KLaVatiU3yuPWR14XW7</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-par-003.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/06/2020 16:59:02</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/06/2020 16:59:02</publishTime>
+    </File>
+    <File Include="Estudo-RestApi.deps.json">
+      <publishTime>03/09/2020 12:37:05</publishTime>
+    </File>
+    <File Include="Estudo-RestApi.dll">
+      <publishTime>03/09/2020 12:37:04</publishTime>
+    </File>
+    <File Include="Estudo-RestApi.pdb">
+      <publishTime>03/09/2020 12:37:04</publishTime>
+    </File>
+    <File Include="Estudo-RestApi.runtimeconfig.json">
+      <publishTime>03/09/2020 12:37:05</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/09/2020 12:37:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
