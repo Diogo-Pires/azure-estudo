@@ -14,7 +14,7 @@ namespace Estudo.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value4", "value5" };
+            return new string[] { "value7", "value5" };
         }
 
         // GET api/values/5
