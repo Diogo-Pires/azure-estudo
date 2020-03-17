@@ -1,0 +1,27 @@
+﻿{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "post"
+      ]
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "cosmosDB",
+      "name": "tarefaDocument",
+      "databaseName": "tarefaDatabase",
+      "collectionName": "tarefaCollection",
+      "createIfNotExists": true,
+      "connectionStringSetting": "estudo-cosmosdb_DOCUMENTDB",
+      "direction": "out"
+    }
+  ]
+}
