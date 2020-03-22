@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": ".env\\Scripts\\python.exe",
+    "azureFunctions.deploySubpath": ".env",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen"
+}
